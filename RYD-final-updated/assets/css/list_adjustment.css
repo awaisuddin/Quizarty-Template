@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 10px;
+  bottom: 100px;
+  display: block;
+}
+
+#myUL li a {
+  margin-top: -10px; /* Prevent double borders */
+  }
+  
+  #myUL li {
+  margin-top: 10px; /* Prevent double borders */
+  left: 15px;
+  
+  
+  
+  
+  
+}
